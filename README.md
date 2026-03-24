@@ -1,0 +1,1 @@
+# Anti-simetrica.python
